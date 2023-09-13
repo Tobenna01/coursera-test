@@ -1,2 +1,5 @@
-Adding download funtionality
+<<<<<<< HEAD
+Adding download functionality
+Adding download functionality
+>>>>>>> feature
 
